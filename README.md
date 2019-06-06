@@ -1,2 +1,2 @@
-# Imagem_similar
-Buscando similaridade em imagens
+# Buscando similaridade em imagens
+
